@@ -148,41 +148,37 @@ export default function LandingPage() {
               {/* Letter content */}
               <div className="relative z-10 text-gray-800 font-serif leading-relaxed space-y-6 text-lg">
                 <p className="text-center italic text-gray-600 mb-8 font-handwriting text-xl">
-                  To the ones looking for something real,
+                  To the people who are over the awkward small talk and dry DMs,
                 </p>
 
                 <p className="animate-typewriter-1 hover:text-gray-900 transition-colors duration-300">
-                  In a world overflowing with notifications, filters, and quick reactions, something essential has been
-                  lost—real connection.
+                  Meeting new people shouldn't be weird. It should feel natural, fun, and safe. That's what we're
+                  building with Slide.
                 </p>
 
                 <p className="animate-typewriter-2 hover:text-gray-900 transition-colors duration-300">
-                  At Slide Social, we've been building quietly—something different. Something that doesn't fight for
-                  your attention but instead respects your time. A platform built with psychology, design, and intention
-                  at its core.
+                  Slide is for when your friends are vibing and so are theirs. For when you're out, on campus, or just
+                  bored in your dorm. It connects you with people nearby who actually want to meet. You can go solo or
+                  roll in with your group. Either way, it's about real moments, not just matching and forgetting.
                 </p>
 
                 <p className="animate-typewriter-3 hover:text-gray-900 transition-colors duration-300">
-                  Slide Social isn't about keeping you online. It's about helping you meet someone—down the street,
-                  across the hall, or around the corner. Whether you're solo or with a group, Slide connects you with
-                  others in the moment—then gives you a place to meet in real life.
+                  It's not about endless chatting. It's about your people meeting their people and seeing where it goes.
+                  And yeah, comfort and safety matter. That's baked in from the start, so you can show up as yourself
+                  and feel good doing it.
                 </p>
 
                 <p className="animate-typewriter-4 hover:text-gray-900 transition-colors duration-300">
-                  We'll be launching late 2025. Until then, we're building the right way: intentionally, quietly, and
-                  with real people in mind.
+                  We're launching in late 2025. Right now, we're just getting started. Building it quietly, but with all
+                  of this in mind.
                 </p>
 
                 <p className="animate-typewriter-5 hover:text-gray-900 transition-colors duration-300">
-                  No big announcements yet. Just a quiet reminder that something more meaningful is on the way.
+                  Something real is coming.
                 </p>
 
                 <p className="text-center mt-8 animate-typewriter-6 text-2xl font-medium font-handwriting">
                   Stay close.
-                </p>
-
-                <p className="text-center text-gray-500 italic animate-typewriter-7 font-handwriting text-xl">
-                  – Team at Slide Social
                 </p>
               </div>
 
